@@ -10,7 +10,10 @@ This project is a Node.js server application. Follow the instructions below to s
   ```bash
   node -v
   npm -v
-Make sure that Task 1 is running and then in other powershell in VS Code navigate to this folder and then perform the following operations.
+
+## To Run this task 
+
+Make sure that Task 1 is running and then in other PowerShell in VS Code navigate to this folder and then perform the following operations.
   ```bash
   npm install
   node index.js
